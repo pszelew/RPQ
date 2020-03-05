@@ -1,0 +1,11 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(167,21): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(173,20): warning C4305: "=": obcięcie z "int" do "float"
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(180,20): warning C4305: "=": obcięcie z "int" do "float"
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(166,19): warning C4101: "waga_2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(228,9): warning C4101: "pi": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(68): warning C4715: "compareq”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(61): warning C4715: "comparer”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(185): warning C4715: "compare_intelligent”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(221): warning C4715: "combine”: niewszystkie ścieżki kodu zwracają wartość
+  ConsoleApplication2.vcxproj -> C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\ConsoleApplication2\Debug\ConsoleApplication2.exe
