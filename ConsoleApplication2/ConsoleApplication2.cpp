@@ -220,6 +220,16 @@ zadanie* combine(int n, zadanie tab[])
             return dynamiczna_3;
 }
 
+void wypisz_kolejnosc(int n, zadanie tab[])
+{
+	for (int i = 0; i < n; i++)
+	{
+		cout << tab[i].id << ", ";
+	}
+	cout << endl;
+}
+
+
 
 int main()
 {
@@ -270,6 +280,7 @@ int main()
      */
     cout << "czas: ";
     temp = sprawdz_czas(n, dynamiczna);
+    wypisz_kolejnosc(n, dynamiczna);
     cout << temp<<endl;
     total += temp;
     }
